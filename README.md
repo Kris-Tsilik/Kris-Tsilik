@@ -10,3 +10,4 @@
 - Резюме: [hh.ru](https://hh.ru/resume/649efdc2ff110f8e990039ed1f37614a747679?from=share_ios), [Хабр Карьера](https://career.habr.com/kris_tsilik)
 - Email: just-ch@yandex.ru
 - Telegram: @Kris_Tsilik
+  
